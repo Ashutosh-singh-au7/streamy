@@ -13,30 +13,6 @@
       "id": 2
     },
     {
-      "title": "Hello I am Sukriti singh",
-      "description": "My father name is Satish kumar singh",
-      "userId": "111586877227065324779",
-      "id": 3
-    },
-    {
-      "title": "Hello I am Sukriti singh",
-      "description": "My father name is Satish kumar singh2222222222",
-      "userId": "111586877227065324779",
-      "id": 4
-    },
-    {
-      "title": "Hello I am sukriti singh",
-      "description": "My mother  name is  Anjali singh",
-      "userId": "111586877227065324779",
-      "id": 5
-    },
-    {
-      "title": "Programmative navigation using PATCH",
-      "description": "you should not see this page on clicking submit button USING PATCH.",
-      "userId": "111586877227065324779",
-      "id": 6
-    },
-    {
       "title": "hello my name is ashutosh i love to code.",
       "description": "hello ashutosh are you available.",
       "userId": "107066801291888643933",
@@ -46,6 +22,12 @@
       "title": "ashutosh singh loves maa papa and family",
       "description": "hello ashutosh singh@@@@@@@8920",
       "id": 8
+    },
+    {
+      "title": "cdscsdcdscdscs",
+      "description": "csdcdscdscdcscs",
+      "userId": "111586877227065324779",
+      "id": 13
     }
   ]
 }
